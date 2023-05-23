@@ -11,4 +11,4 @@ A python program that generates programming quotes and jokes.
 ## Fork urls
 - `contributor-1`: [quotes-CHABLOZ-bdx](https://github.com/noreply97/quotes-CHABLOZ-bdx.git)
 - `contributor-2`: [quotes-BOUDIBA-bdx](https://github.com/Fatbasket0/quotes-BOUDIBA-bdx.git)
-- `contributor-3`: [quotes-MARTRENCHAR-bdx](https://github.com/Lucrapide/quotes-MARTRENCHAR-bdx.gi
+- `contributor-3`: [quotes-MARTRENCHAR-bdx](https://github.com/Lucrapide/quotes-MARTRENCHAR-bdx.git)
