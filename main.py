@@ -4,6 +4,9 @@ def menu():
     print("\n==== Programming Quotes ====")
     print("1. Random quote")
     print("2. All quotes")
+    print("3. Add quote")
+    print("4. Exit")
+
     print("3. Exit")
 
 def main():
@@ -18,10 +21,16 @@ def main():
         elif choice == "2":
             view_quotes(quotes)
         elif choice == "3":
+            print("Add a quote")
+            add_quote(quotes, "quotes.txt")
+        elif choice == "4":
             print("Good bye...")
             break
         else:
             print("Invalid input")
 
+if __name__ == "__main__":
+    main()
+    
 if __name__ == "__main__":
     main()
