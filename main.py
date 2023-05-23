@@ -1,6 +1,5 @@
 from functions import *
 
-
 def menu():
     print("\n==== Programming Quotes ====")
     print("1. Random quote")
@@ -8,6 +7,7 @@ def menu():
     print("3. Add quote")
     print("4. Exit")
 
+    print("3. Exit")
 
 def main():
     while True:
@@ -29,7 +29,8 @@ def main():
         else:
             print("Invalid input")
 
-
 if __name__ == "__main__":
     main()
     
+if __name__ == "__main__":
+    main()
