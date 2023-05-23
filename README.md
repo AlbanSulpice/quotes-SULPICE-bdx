@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: MARTRENCHAR Luc Group Bdx
 
 ## Fork urls
-- `contributor-1`: [quotes-CHABLOZ-b](https://github.com/noreply97/quotes-CHABLOZ-bdx.git)
-- `contributor-2`: [quotes-BOUDIBA-b](https://github.com/Fatbasket0/quotes-BOUDIBA-bdx.git)
-- `contributor-3`: [quotes-MARTRENCHAR-b](https://github.com/Lucrapide/quotes-MARTRENCHAR-bdx.git)
+- `contributor-1`: [quotes-CHABLOZ-bdx](https://github.com/noreply97/quotes-CHABLOZ-bdx.git)
+- `contributor-2`: [quotes-BOUDIBA-bdx](https://github.com/Fatbasket0/quotes-BOUDIBA-bdx.git)
+- `contributor-3`: [quotes-MARTRENCHAR-bdx](https://github.com/Lucrapide/quotes-MARTRENCHAR-bdx.git)
